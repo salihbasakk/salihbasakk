@@ -10,6 +10,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"/>
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="symfony"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch"/>
