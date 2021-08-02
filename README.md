@@ -24,8 +24,12 @@
 <h2 align="center"> ✍️ Social Media Accounts </h2>
 
 <p align="center">
+   <a href="https://medium.com/@salihbasakk" title='Medium'>
+    <img align="center" alt="Salih Başak | medium" src="https://img.icons8.com/color/48/000000/medium-logo--v2.png" />
+  </a>
+  
   <a href="https://twitter.com/salihbasakk" title='Twitter'>
-    <img align="center" alt="Salih Başak | twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
+    <img align="center" alt="Salih Başak | twitter" src="https://img.icons8.com/color/32/000000/twitter.png" />
   </a>
   
   <a href="https://stackoverflow.com/users/11327537/salihbasakk" title='stackoverflow'>
