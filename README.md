@@ -2,7 +2,7 @@
 
 <h2 align="center"> 📢 whoami  </h2>
 <p align="center">
-  <samp>Software Developer @enuygun</samp>
+  <samp>Software Developer @24saatteis</samp>
 </p>
 
 
