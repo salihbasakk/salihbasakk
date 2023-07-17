@@ -2,7 +2,7 @@
 
 <h2 align="center"> 📢 whoami  </h2>
 <p align="center">
-  <samp>Software Developer @24saatteis</samp>
+  <samp>Software Developer <a href="https://github.com/Teknasyon" title='Teknasyon'>@Teknasyon</a></samp>
 </p>
 
 
@@ -18,7 +18,6 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go"/>
 </p>
 
 <h2 align="center"> ✍️ Social Media Accounts </h2>
